@@ -1,4 +1,4 @@
-![Alt text](https://example.com/path/to/image.png)
+![Alt text](val_batch1_labels.jpg)
 
 Ceratitis Fruit Fly Detection Model
 
